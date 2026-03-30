@@ -1,16 +1,17 @@
-## Hi there 👋
+# Name:Abdelrhman Ebied
 
-<!--
-**AbdelrhmanEbied/AbdelrhmanEbied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer based in Egypt. Currently focused on technical foundations in Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+### Focus
+ML Engineering: Practical implementation and experience.
+MLOps & Data Pipelines: System design for data flow and processing.
+NLP: Natural Language Processing and text analysis.
+Advanced Mathematics: Calculus and Linear Algebra for ML.
+Automation: Workflow optimization through scripting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Languages: Python, SQL
+Libraries: Pandas, Scikit-learn, PyTorch, TensorFlow
+
+---
+If my logic or code is flawed, point it out directly. I prioritize technical accuracy over politeness.
