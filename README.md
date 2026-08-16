@@ -46,12 +46,15 @@ My goal is to continuously improve my engineering fundamentals and build increas
 **Databases & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,sqlite" />
 </p>
 
 * PostgreSQL
+* Redis
+* SQLite
 * SQLAlchemy
 * SQL
+
 
 ---
 
