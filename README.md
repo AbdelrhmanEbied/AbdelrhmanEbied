@@ -99,14 +99,6 @@ I can work independently across the development lifecycle:
 
 This includes building end-to-end **AI/ML applications**, RAG systems, APIs, ML workflows, data pipelines, and production-oriented infrastructure.
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanEbied&show_icons=true&theme=transparent&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanEbied&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
 
 ---
 
