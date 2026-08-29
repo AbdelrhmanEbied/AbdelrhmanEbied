@@ -1,4 +1,4 @@
-# Hi, I'm Abdelrhman Ebied
+# Hi, I'm Abdelrhman Ebied <img src="https://img.shields.io/badge/-Open%20to%20Work-1a1a2e?style=flat&logo=github&logoColor=white&labelColor=2ea043"/>
 
 I'm just a guy who loves learning, building things, and continuously improving my skills.
 
@@ -15,7 +15,7 @@ My goal is to continuously improve my engineering fundamentals and build increas
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=python,bash,sql" />
 </p>
 
 * Python
@@ -29,7 +29,7 @@ My goal is to continuously improve my engineering fundamentals and build increas
 **LLM / RAG**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
 </p>
 
 * LangChain
@@ -53,15 +53,13 @@ My goal is to continuously improve my engineering fundamentals and build increas
 * Redis
 * SQLite
 * SQLAlchemy
-* SQL
-
 
 ---
 
 ### Machine Learning Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,matplotlib" />
 </p>
 
 * Scikit-learn
@@ -102,25 +100,31 @@ I can work independently across the development lifecycle:
 
 This includes building end-to-end **AI/ML applications**, RAG systems, APIs, ML workflows, data pipelines, and production-oriented infrastructure.
 
+---
+
+## Featured Projects
+
+### [research-assistant](https://github.com/AbdelrhmanEbied/research-assistant)
+A local AI research assistant with streaming chat, Hybrid RAG, and document search.
+
+### [Tiny-MoE](https://github.com/AbdelrhmanEbied/Tiny-MoE)
+A lightweight Mixture-of-Experts language model built from scratch in native PyTorch and trained end-to-end on Kaggle using free 2x NVIDIA T4 GPUs.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanEbied&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanEbied&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 ---
 
 ## GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrhmanEbied&theme=github-compact&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrhmanEbied&theme=github" width="100%"/>
-</p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdelrhmanEbied&theme=transparent&hide_border=true" />
 </p>
 
 ---
