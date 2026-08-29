@@ -112,15 +112,6 @@ A lightweight Mixture-of-Experts language model built from scratch in native PyT
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanEbied&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanEbied&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## GitHub Contributions
 
 <p align="center">
