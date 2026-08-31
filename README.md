@@ -42,6 +42,9 @@ My goal is to continuously improve my engineering fundamentals and build increas
 * RAG
 * FastAPI
 * Streamlit
+* Axolotl
+* Unsloth
+* LLaMA-Factory
 
 **Databases & Data**
 
@@ -87,6 +90,7 @@ My goal is to continuously improve my engineering fundamentals and build increas
 * DVC
 * MLflow
 * Grafana
+* vLLM
 
 ---
 
