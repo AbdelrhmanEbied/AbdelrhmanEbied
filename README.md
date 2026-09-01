@@ -77,7 +77,7 @@ My goal is to continuously improve my engineering fundamentals and build increas
 ### MLOps / DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,grafana,prometheus" />
 </p>
 
 * Docker
@@ -90,6 +90,7 @@ My goal is to continuously improve my engineering fundamentals and build increas
 * DVC
 * MLflow
 * Grafana
+* Prometheus
 * vLLM
 
 ---
