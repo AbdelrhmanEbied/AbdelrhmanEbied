@@ -71,6 +71,8 @@ My goal is to continuously improve my engineering fundamentals and build increas
 * Matplotlib
 * Seaborn
 * PyTorch
+* SymPy
+* SciPy
 
 ---
 
