@@ -111,11 +111,25 @@ This includes building end-to-end **AI/ML applications**, RAG systems, APIs, ML 
 
 ## Featured Projects
 
-### [research-assistant](https://github.com/AbdelrhmanEbied/research-assistant)
-A local AI research assistant with streaming chat, Hybrid RAG, and document search.
+### [Research-Assistant](https://github.com/AbdelrhmanEbied/research-assistant)
+
+A local-first AI research assistant with streaming chat, hybrid RAG, agent workflows, document search, and a production-oriented FastAPI backend.
+
+### [Tiny-K3](https://github.com/AbdelrhmanEbied/Tiny-K3)
+
+A 1B-parameter language model inspired by modern architectures such as Kimi and DeepSeek, built with native PyTorch and designed as a Hugging Face-compatible model.
 
 ### [Tiny-MoE](https://github.com/AbdelrhmanEbied/Tiny-MoE)
-A lightweight Mixture-of-Experts language model built from scratch in native PyTorch and trained end-to-end on Kaggle using free 2x NVIDIA T4 GPUs.
+
+A lightweight Mixture-of-Experts language model built from scratch in native PyTorch and trained end-to-end on Kaggle using 2× NVIDIA T4 GPUs.
+
+### [PyTrain](https://github.com/AbdelrhmanEbied/PyTrain)
+
+A no-code ML platform for tabular model training with dataset management, preprocessing pipelines, hyperparameter configuration, experiment tracking, data versioning, and model prediction.
+
+### [Chirp](https://github.com/AbdelrhmanEbied/Chirp)
+
+A distributed social platform built to explore microservices, Kubernetes, Terraform, AWS infrastructure, event-driven architecture, observability, and load testing.
 
 ---
 
