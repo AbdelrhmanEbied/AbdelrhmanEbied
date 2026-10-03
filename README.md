@@ -111,7 +111,7 @@ This includes building end-to-end **AI/ML applications**, RAG systems, APIs, ML 
 
 ## Featured Projects
 
-### [Research-Assistant](https://github.com/AbdelrhmanEbied/research-assistant)
+### [ResearchOS](https://github.com/AbdelrhmanEbied/ResearchOS)
 
 A local-first AI research assistant with streaming chat, hybrid RAG, agent workflows, document search, and a production-oriented FastAPI backend.
 
